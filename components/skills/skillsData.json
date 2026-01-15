@@ -1,0 +1,99 @@
+[
+    {
+      "name": "Salesforce",
+      "image": "https://www.svgrepo.com/show/354306/salesforce.svg",
+      "proficiency": 85,
+      "directionLeft": true
+    },
+        {
+      "name": "React",
+      "image": "https://www.svgrepo.com/show/354259/react.svg",
+      "proficiency": 80,
+      "directionLeft": true
+    },
+    {
+      "name": "JavaScript",
+      "image": "https://www.svgrepo.com/show/349419/javascript.svg",
+      "proficiency": 90,
+      "directionLeft": true
+    },
+    {
+      "name": "Express",
+      "image": "https://www.svgrepo.com/show/330398/express.svg",
+      "proficiency": 85,
+      "directionLeft": true
+    },
+    {
+        "name": "Nodejs",
+        "image": "https://www.svgrepo.com/show/303658/nodejs-1-logo.svg",
+        "proficiency": 85,
+        "directionLeft": true
+      },
+      {
+        "name": "MongoDB",
+        "image": "https://www.svgrepo.com/show/331488/mongodb.svg",
+        "proficiency": 90,
+        "directionLeft": true
+      },
+      {
+        "name": "Tailwind CSS",
+        "image": "https://www.svgrepo.com/show/374118/tailwind.svg",
+        "proficiency": 95,
+        "directionLeft": true
+      },
+      {
+        "name": "Typescript",
+        "image": "https://www.svgrepo.com/show/354478/typescript-icon.svg",
+        "proficiency": 60,
+        "directionLeft": true
+      },
+      {
+        "name": "HTML",
+        "image": "https://www.svgrepo.com/show/452228/html-5.svg",
+        "proficiency": 97,
+        "directionLeft": true
+      },
+      {
+        "name": "Next.js",
+        "image": "https://www.svgrepo.com/show/354112/nextjs.svg",
+        "proficiency": 50,
+        "directionLeft": true
+      },
+      {
+        "name": "Docker",
+        "image": "https://www.svgrepo.com/show/452192/docker.svg",
+        "proficiency": 75,
+        "directionLeft": true
+      },
+      {
+        "name": "Mysql",
+        "image": "https://www.svgrepo.com/show/303251/mysql-logo.svg",
+        "proficiency": 90,
+        "directionLeft": true
+      },
+      {
+        "name": "Jira",
+        "image": "https://www.svgrepo.com/show/452241/jira.svg",
+        "proficiency": 80,
+        "directionLeft": true
+      },
+      {
+        "name": "Postman",
+        "image": "https://www.svgrepo.com/show/354202/postman-icon.svg",
+        "proficiency": 80,
+        "directionLeft": true
+      },
+      {
+        "name": "CSS",
+        "image": "https://www.svgrepo.com/show/452185/css-3.svg",
+        "proficiency": 75,
+        "directionLeft": true
+      },
+      {
+        "name": "Github",
+        "image": "https://www.svgrepo.com/show/452210/git.svg",
+        "proficiency": 80,
+        "directionLeft": true
+      }
+  ]
+  
