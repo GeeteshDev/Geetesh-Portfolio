@@ -18,14 +18,7 @@ export default function Home() {
                  scrollbar-thin scrollbar-track-gray-400/20 
                  scrollbar-thumb-[#F7AB0A]/80"
     >
-      {/* <Head>
-        <title>Geetesh`s Portfolio</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta
-          name="description"
-          content="Geetesh's Portfolio showcasing skills, experience, and projects"
-        />
-      </Head> */}
+
       <Head>
         <title>Geetesh Aheriya | Salesforce Developer & Frontend Engineer</title>
       
