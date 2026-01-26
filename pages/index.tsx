@@ -19,6 +19,29 @@ export default function Home() {
                  scrollbar-thumb-[#F7AB0A]/80"
     >
 
+      {/* <Head>
+        <title>Geetesh Aheriya | Salesforce Developer & Frontend Engineer</title>
+      
+        <meta
+          name="description"
+          content="Official portfolio of Geetesh Aheriya, Salesforce Developer and Frontend Engineer. View skills, experience, and projects."
+        />
+      
+        <meta name="author" content="Geetesh Aheriya" />
+        <meta name="robots" content="index, follow" />
+      
+        <link rel="canonical" href="https://geetesh.dev/" />
+      
+        
+        <meta property="og:title" content="Geetesh Aheriya | Portfolio" />
+        <meta
+          property="og:description"
+          content="Geetesh Aheriya – Salesforce Developer & Frontend Engineer"
+        />
+        <meta property="og:url" content="https://geetesh.dev/" />
+        <meta property="og:type" content="website" />
+      </Head> */}
+
       <Head>
         <title>Geetesh Aheriya | Salesforce Developer & Frontend Engineer</title>
       
@@ -40,7 +63,25 @@ export default function Home() {
         />
         <meta property="og:url" content="https://geetesh.dev/" />
         <meta property="og:type" content="website" />
+      
+      
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Person",
+              name: "Geetesh Aheriya",
+              url: "https://geetesh.dev/",
+              jobTitle: "Salesforce Developer",
+              sameAs: [
+                "https://www.linkedin.com/in/geeteshaheriya/"
+              ]
+            }),
+          }}
+        />
       </Head>
+
 
 
       {/* Header */}
