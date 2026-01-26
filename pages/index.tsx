@@ -18,14 +18,37 @@ export default function Home() {
                  scrollbar-thin scrollbar-track-gray-400/20 
                  scrollbar-thumb-[#F7AB0A]/80"
     >
-      <Head>
+      {/* <Head>
         <title>Geetesh`s Portfolio</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta
           name="description"
           content="Geetesh's Portfolio showcasing skills, experience, and projects"
         />
+      </Head> */}
+      <Head>
+        <title>Geetesh Aheriya | Salesforce Developer & Frontend Engineer</title>
+      
+        <meta
+          name="description"
+          content="Official portfolio of Geetesh Aheriya, Salesforce Developer and Frontend Engineer. View skills, experience, and projects."
+        />
+      
+        <meta name="author" content="Geetesh Aheriya" />
+        <meta name="robots" content="index, follow" />
+      
+        <link rel="canonical" href="https://geetesh.dev/" />
+      
+        {/* Open Graph */}
+        <meta property="og:title" content="Geetesh Aheriya | Portfolio" />
+        <meta
+          property="og:description"
+          content="Geetesh Aheriya – Salesforce Developer & Frontend Engineer"
+        />
+        <meta property="og:url" content="https://geetesh.dev/" />
+        <meta property="og:type" content="website" />
       </Head>
+
 
       {/* Header */}
       <Header />
